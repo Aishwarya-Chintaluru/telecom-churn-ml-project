@@ -35,20 +35,29 @@ The goal is not just prediction, but understanding why customers leave and ident
 
 ## 📊 Visual Insights
 
-### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
-
 ### Tenure vs Churn
-![Tenure vs Churn](images/tenure_vs_churn.png)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/15adf0b2-ea17-4839-a8d9-72132b41a8e8" />
+
 
 ### Monthly Charges vs Churn
-![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/dbe0fbb8-b260-4c4d-9565-3266b66afcaf" />
+
 
 ### Contract Type vs Churn
-![Contract Type vs Churn](images/contract_vs_churn.png)
+| Churn | Month-to-month | One year | Two year |
+|------|----------------|----------|----------|
+| No   | 0.429          | 0.253    | 0.318    |
+| Yes  | 0.886          | 0.089    | 0.026    |
 
 ### Payment Method vs Churn
-![Payment Method vs Churn](images/payment_method_vs_churn.png)
+| Churn | Bank Transfer | Credit Card | Electronic Check | Mailed Check |
+|------|--------------|-------------|------------------|--------------|
+| No   | 0.249        | 0.249       | 0.250            | 0.252        |
+| Yes  | 0.138        | 0.124       | 0.573            | 0.165        |
+
+### Top Factors Driving Customer Churn
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/0b945628-44d4-473a-ae41-59f920624338" />
+
 
 ---
 
